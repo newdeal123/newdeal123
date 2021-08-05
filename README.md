@@ -5,7 +5,7 @@
 ## 👨👩 social
 <a href="https://www.linkedin.com/in/cheongun-seo-4502501b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>.  
+ </a>
  
 ## 👩‍💻 Languages
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
