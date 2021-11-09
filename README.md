@@ -3,7 +3,7 @@
 
 ***10분만에 풀리는 문제보다  110분 고민해야 풀리는 문제를 더 좋아하는 사람***.  
 ## 🥳 Career
-<img src="https://user-images.githubusercontent.com/31841502/140869469-d7706cfb-ea8f-4413-9628-72e027b3b710.png" width="500" height="100"/>
+<img src="https://user-images.githubusercontent.com/31841502/140869469-d7706cfb-ea8f-4413-9628-72e027b3b710.png" width="250" height="50"/>
 
 ## 👨👩 social
 <a href="https://www.linkedin.com/in/cheongun-seo-4502501b7/">
