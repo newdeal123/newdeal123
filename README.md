@@ -12,7 +12,7 @@
 </p>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31841502/140871162-ec844ea3-ecd9-4cee-9af2-d596b7cd205e.png" width="201" height="62" />
-  [down load on Play Store!](https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtech.pageturner.cantabile%26fbclid%3DIwAR1iixVHNlnyuFXOdWv_07Thx1iQOyoVHtLWSym2pjC4RbHiHFdQMUnjvKI&h=AT2b_BCouCFfdz8g2vFyAhXAD98QkyBeOnnrJwrxw_YzCNr4yiAxUctd3Dcg8IJ-o_jyR9BtvVx1f5Lt85uP5AN6LEE9jbTMn9bmGak4hMaPbQeLAbprWyaoNjwKuScBP9jOC9JBDA&__tn__=-UK-y-R&c[0]=AT39K7fWImYJhgkQkCL85j69XGlGhyQc_4WKF-DGYRmM8aEfu3yt9pLzlzTfc3VdUgTumQwe9nSa9TaPRj4gQfZeq4N03IJwmX_quRflhBlMdHlpa7EperbnvCqMcBFhNeuSxJZ8z_9F1V8yxIY78ui0v8_MuvzaJGVv9mbPl1yd3LT3)
+  <p href="https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtech.pageturner.cantabile%26fbclid%3DIwAR1iixVHNlnyuFXOdWv_07Thx1iQOyoVHtLWSym2pjC4RbHiHFdQMUnjvKI&h=AT2b_BCouCFfdz8g2vFyAhXAD98QkyBeOnnrJwrxw_YzCNr4yiAxUctd3Dcg8IJ-o_jyR9BtvVx1f5Lt85uP5AN6LEE9jbTMn9bmGak4hMaPbQeLAbprWyaoNjwKuScBP9jOC9JBDA&__tn__=-UK-y-R&c[0]=AT39K7fWImYJhgkQkCL85j69XGlGhyQc_4WKF-DGYRmM8aEfu3yt9pLzlzTfc3VdUgTumQwe9nSa9TaPRj4gQfZeq4N03IJwmX_quRflhBlMdHlpa7EperbnvCqMcBFhNeuSxJZ8z_9F1V8yxIY78ui0v8_MuvzaJGVv9mbPl1yd3LT3">down load on Play Store!</p>
 </p>
 ## 👨👩 social
 <a href="https://www.linkedin.com/in/cheongun-seo-4502501b7/">
