@@ -8,6 +8,7 @@
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31841502/140870208-aae7c3a4-ea0b-43d8-9672-252798324eca.png" width="201" height="62" />
   [down load on App Store!](https://apps.apple.com/kr/app/cantabile/id1591722334)
+  [I'm an inline-style link](https://www.google.com)
 </p>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31841502/140871162-ec844ea3-ecd9-4cee-9af2-d596b7cd205e.png" width="201" height="62" />
