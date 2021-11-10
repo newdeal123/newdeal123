@@ -5,6 +5,9 @@
 ## 🥳 Career
 <img src="https://user-images.githubusercontent.com/31841502/140869469-d7706cfb-ea8f-4413-9628-72e027b3b710.png" width="250" height="50"/>
 <img src="https://user-images.githubusercontent.com/31841502/140870060-298ee535-cef1-41e2-96ab-a292eee79500.png"/>
+<a href="https://www.linkedin.com/in/cheongun-seo-4502501b7/">
+  <img src="https://user-images.githubusercontent.com/31841502/140870208-aae7c3a4-ea0b-43d8-9672-252798324eca.png" width="201" height="62" />
+</a>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31841502/140870208-aae7c3a4-ea0b-43d8-9672-252798324eca.png" width="201" height="62" />
   <img src="https://user-images.githubusercontent.com/31841502/140871162-ec844ea3-ecd9-4cee-9af2-d596b7cd205e.png" width="201" height="62" />
