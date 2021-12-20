@@ -4,7 +4,7 @@
 ***10분만에 풀리는 문제보다  110분 고민해야 풀리는 문제를 더 좋아하는 사람***.  
 ## 🧐 portfolio
 <a href="https://eggplant-secure-ec2.notion.site/Seo-Cheongun-newdeal-5143d5dbb1cc46519cc5e79c27859aec">
-  <img src="https://user-images.githubusercontent.com/31841502/146732638-0c858880-b48c-4b50-92b3-3268ecbea05c.png"  width="250" height="150" />
+  <img src="https://user-images.githubusercontent.com/31841502/146732638-0c858880-b48c-4b50-92b3-3268ecbea05c.png"  width="250" height="130" />
 </a>
 
 ## 🥳 Career
