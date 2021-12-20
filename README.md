@@ -6,7 +6,7 @@
 <a href="https://eggplant-secure-ec2.notion.site/Seo-Cheongun-newdeal-5143d5dbb1cc46519cc5e79c27859aec">
   <img src="https://user-images.githubusercontent.com/31841502/146732638-0c858880-b48c-4b50-92b3-3268ecbea05c.png"  width="250" height="130" />
 </a>
-### 👈click!
+### 👈click!   
 
 ## 🥳 Career
 <img src="https://user-images.githubusercontent.com/31841502/140869469-d7706cfb-ea8f-4413-9628-72e027b3b710.png" width="250" height="50"/>
