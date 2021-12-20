@@ -2,7 +2,11 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newdeal)](https://solved.ac/newdeal)
 
 ***10분만에 풀리는 문제보다  110분 고민해야 풀리는 문제를 더 좋아하는 사람***.  
-## portfolio-> https://eggplant-secure-ec2.notion.site/Seo-Cheongun-newdeal-5143d5dbb1cc46519cc5e79c27859aec.  
+## 🧐 portfolio
+<a href="https://eggplant-secure-ec2.notion.site/Seo-Cheongun-newdeal-5143d5dbb1cc46519cc5e79c27859aec">
+  <img src="https://user-images.githubusercontent.com/31841502/146732638-0c858880-b48c-4b50-92b3-3268ecbea05c.png" width="201" height="62" />
+</a>
+
 ## 🥳 Career
 <img src="https://user-images.githubusercontent.com/31841502/140869469-d7706cfb-ea8f-4413-9628-72e027b3b710.png" width="250" height="50"/>
 <img src="https://user-images.githubusercontent.com/31841502/140870060-298ee535-cef1-41e2-96ab-a292eee79500.png"/>
